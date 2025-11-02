@@ -52,7 +52,7 @@ Website: Coming soon
 
 Twitter/X: @RedAILabs
 
-Linkedin: @shubhammodi24
+Linkedin: [shubhammodi24](https://www.linkedin.com/in/shubhammodi24)
 
 # License
 
