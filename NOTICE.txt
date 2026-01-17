@@ -1,0 +1,13 @@
+RED™ - LLM Architecture
+Copyright 2026 Shubham Modi
+
+TRADEMARK NOTICE
+
+"RED" and "CRIMSON" are trademarks of [Your Full Name].
+
+LICENSING:
+- Crimson 1: Apache License 2.0
+- Crimson 2+: Proprietary
+- Trademarks: All rights reserved
+
+Contact: redresearchpvtltd@gmail.com
