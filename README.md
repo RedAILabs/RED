@@ -54,7 +54,13 @@ Twitter/X: @RedAILabs
 
 Linkedin: [shubhammodi24](https://www.linkedin.com/in/shubhammodi24)
 
-# License
+## Licensing
 
-This repository shares open educational content for Red’s early development (NumPy + T5 work).
-Certain research directions remain proprietary to ensure long-term safety and responsible release.
+### Code License
+- **Crimson 1 Architecture**: Licensed under Apache License 2.0
+- **Future Versions (Crimson 2+)**: Will be proprietary and licensed separately
+
+### Brand Protection
+- **"RED"™** and **"Crimson"™** are trademarks of [Red Research Private Limited]
+- Commercial use of these names requires explicit written permission
+- See [NOTICE](NOTICE) file for detailed trademark information
