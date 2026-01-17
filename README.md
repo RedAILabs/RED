@@ -61,6 +61,6 @@ Linkedin: [shubhammodi24](https://www.linkedin.com/in/shubhammodi24)
 - **Future Versions (Crimson 2+)**: Will be proprietary and licensed separately
 
 ### Brand Protection
-- **"RED"™** and **"Crimson"™** are trademarks of [Red Research Private Limited]
+- **"RED"™** and **"Crimson"™** are trademarks of Red Research Private Limited
 - Commercial use of these names requires explicit written permission
-- See [NOTICE](NOTICE) file for detailed trademark information
+- See [NOTICE](NOTICE.txt) file for detailed trademark information
