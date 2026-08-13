@@ -3,7 +3,7 @@ Copyright 2026 Shubham Modi
 
 TRADEMARK NOTICE
 
-"RED" and "CRIMSON" are trademarks of [Your Full Name].
+"RED" and "CRIMSON" are trademarks of Shubham Modi.
 
 LICENSING:
 - Crimson 1: Apache License 2.0
